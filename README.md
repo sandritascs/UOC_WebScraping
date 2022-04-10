@@ -6,7 +6,7 @@ Esta práctica se ha realizado para la asignatura _Tipología y ciclo de vida de
 
 ## Miembos del equipo
 
-La práctica se ha realizado en pareja por **Sandra CamposSuárez** y **María de los Ángeles García Carrión**
+La práctica se ha realizado en pareja por **Sandra Campos Suárez** y **María de los Ángeles García Carrión**
 
 ## Ficheros del código fuente
 
