@@ -29,6 +29,6 @@ Se ha publicado el dataset en Zenodo. Se puede acceder a el mediante la url http
 
 ## Recursos.
 
-1. Apuntos del Bloque 2 Web scraping de la asignatura de _Tipología y ciclo de vida de los datos_.
+1. Apuntes del Bloque 2 Web scraping de la asignatura de _Tipología y ciclo de vida de los datos_.
 2. Lawson, R. Web Scraping with Python.
 3. Heydt, M. Python Web Scraping Cookbook .
