@@ -25,9 +25,9 @@ En el dataset se encontrará información de los animales que se encuentran en e
 
 ## **Representación gráfica**
 
-En el siguiente diagrama podemos observar la tabla Animales que será la que se va a analizar en esta práctica. Se ha añadido la tabla Bioparc ya que la tabla Animales recoge el detalle de la variable Animales, relacionadas ambas por el id que será añadido en la extracción generada.
+En el siguiente diagrama podemos observar los atributos de los animales que será la que se va a analizar en esta práctica. 
 
-![*Figura 2: Diagrama dataset*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image_diagrama.png)
+![*Figura 2: Diagrama dataset*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image2_diagrama.png)
 
 
 ## **Contenido**
@@ -36,31 +36,31 @@ El dataset recoge todos los animales existentes en el Bioparc de Fuengirola dura
 
 Los campos que encontraremos en el conjunto de datos son los siguientes:
 
- **- Nombre_comun:** nombre del animal. 
+ **- nombre_comun:** nombre del animal. 
  
- **- Especie:** categoría de clasificación del animal. 
+ **- especie:** categoría de clasificación del animal. 
  
- **- Familia:** familia del animal. 
+ **- familia:** familia del animal. 
  
- **- Orden:** categoría taxonómica entre la clase y la familia. 
+ **- orden:** categoría taxonómica entre la clase y la familia. 
  
- **- Clase:** categoría en la taxonomía, situada entre el filo o la división y el orden. Conocido a su vez como subgrupo de los animales.
+ **- clase:** categoría en la taxonomía, situada entre el filo o la división y el orden. Conocido a su vez como subgrupo de los animales.
  
- **- Grupo:** clasificación de los animales que se presentan la misma especie (peces, anfibios, reptiles, aves y mamíferos entre otros).
+ **- grupo:** clasificación de los animales que se presentan la misma especie (peces, anfibios, reptiles, aves y mamíferos entre otros).
  
- **- Zona:** zona geográfica donde habita el animal.
+ **- zona:** zona geográfica donde habita el animal.
  
- **- Habitat:** lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal.
+ **- habitat:** lugar de condiciones apropiadas para que viva un organismo, especie o comunidad animal o vegetal.
  
- **- Dieta:** alimentación del animal, es decir, carnívoros, herbívoros y omnívoros.
+ **- dieta:** alimentación del animal, es decir, carnívoros, herbívoros y omnívoros.
  
- **- Gestacion:** tiempo de gestación.
+ **- gestacion:** tiempo de gestación.
  
- **- Crias:** número de crías.
+ **- crias:** número de crías.
  
- **- Vida:** esperanza de vida del animal.
+ **- vida:** esperanza de vida del animal.
  
- **- Grado_amenaza:** Grado de extinción.
+ **- grado_amenaza:** Grado de extinción.
 
 
 ## **Agradecimientos**
@@ -74,7 +74,7 @@ En cuanto a los pasos llevados a cabo para la elección de este dataset se ha re
   
  **- mapa del sitio web:** En este caso cumple el formato Simplemaps XML. Para el caso de la web de Fuengirola accedemos al siguiente enlace (https://www.bioparcfuengirola.es/sitemap_index.xml)
  
- ![*Image 2: Mapa del sitio web*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image1_domain.png)
+ ![*Image 2: Mapa del sitio web*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image_sitemap.png)
  
  **- Tamaño:** Al realizar la búsqueda en Google para Bioparc de Fuengirola obtenemos 389.000 resultados.
  
@@ -89,7 +89,7 @@ En cuanto a los pasos llevados a cabo para la elección de este dataset se ha re
  ![*Image 4: Propietario*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image2_domain.png)
  
 
-## ** Inspiración**
+## **Inspiración**
 
 El objetivo principal de este estudio es analizar los diferentes animales existentes en el Bioparc de Fuengirola. Para ello se ha estructurado en los siguientes puntos donde se centrará especialmente en un análisis cualitativo de las variables:
 
