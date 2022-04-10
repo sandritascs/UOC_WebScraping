@@ -72,9 +72,7 @@ En cuanto a los pasos llevados a cabo para la elección de este dataset se ha re
  
    ![*Image 1: archivo robots.txt*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image_rob.png)
   
- **- mapa del sitio web:** En este caso cumple el formato Simplemaps XML. Para el caso de la web de Fuengirola accedemos al siguiente enlace (https://www.bioparcfuengirola.es/sitemap_index.xml)
- 
- ![*Image 2: Mapa del sitio web*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image_sitemap.png)
+ **- mapa del sitio web:** En este caso cumple el formato Simplemaps XML. Para el caso de la web de Fuengirola accedemos al siguiente enlace (https://www.bioparcfuengirola.es/sitemap_index.xml) 
  
  **- Tamaño:** Al realizar la búsqueda en Google para Bioparc de Fuengirola obtenemos 389.000 resultados.
  
@@ -111,4 +109,11 @@ Hemos escogido la licencia *Released Under CC0* ya que no afecta en ninguna form
 
 Con esta licencia se permite que otros usuarios puedan usar esta información libremente para cualquier propósito sin restricción.
 
+## **Contribuciones**
+
+**- Investigación previa:** Sandra Campos Suárez y Mª de los Ángeles García Carrión 
+
+**- Redacción de las respuestas:** Sandra Campos Suárez y Mª de los Ángeles García Carrión
+
+**- Desarrollo del código:** Sandra Campos Suárez y Mª de los Ángeles García Carrión
 
