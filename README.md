@@ -14,10 +14,14 @@ La práctica se ha realizado en pareja por **Sandra Campos Suárez** y **María 
 * **src/utils.py**: funciones básicas y necesarias para la ejecución del programa.
 * **src/scraping.py**: Implementación de las dos métodos claves para generar el conjunto de datos.
 
-## Otros ficheros
+## Respuestas
 
-* **respuestas/PRA_1.pdf**: documento con las respuestas a los apartados 1-10
-* **video/videoPRA_1.mp4**: vídeo con la explicación de la práctica.
+* **respuestas/PRA_1.pdf**: documento con las respuestas a los apartados 1-10.
+
+## Vídeo
+
+En el siguiente enlace se encuentra el vídeo de explicación de la práctica:
+https://drive.google.com/file/d/1Dv3DeNlDwAbZTrWckOKVm5i3LVaRNMIf/view?usp=sharing
 
 ## Publicación del Dataset
 
@@ -25,6 +29,6 @@ Se ha publicado el dataset en Zenodo. Se puede acceder a el mediante la url http
 
 ## Recursos.
 
-1. Apuntos del Bloque 2 Web scraping de la asignatura de _Tipología y ciclo de vida de los datos_
+1. Apuntos del Bloque 2 Web scraping de la asignatura de _Tipología y ciclo de vida de los datos_.
 2. Lawson, R. Web Scraping with Python.
-3. Heydt, M. Python Web Scraping Cookbook 
+3. Heydt, M. Python Web Scraping Cookbook .
