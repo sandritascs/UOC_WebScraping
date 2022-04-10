@@ -18,6 +18,10 @@ La práctica se ha realizado en pareja por **Sandra Campos Suárez** y **María 
 
 * **respuestas/PRA_1.pdf**: documento con las respuestas a los apartados 1-10.
 
+## Dataset
+
+El dataset se encuentra en **csv/dataset.csv**.
+
 ## Vídeo
 
 En el siguiente enlace se encuentra el vídeo de explicación de la práctica:
