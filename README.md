@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta práctica se ha realizado para la asignatura _Tipología y ciclo de vida de los datos_, del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. Se llevan a cabo técnicas de web scraping usando el lenguaje de programación Python, para extrar los datos de la web _bioparcfuengirola_ y generar un dataset para analizarlos.
+Esta práctica se ha realizado para la asignatura _Tipología y ciclo de vida de los datos_, del Máster en Ciencia de Datos de la Universitat Oberta de Catalunya. Se llevan a cabo técnicas de web scraping usando el lenguaje de programación Python, para extrar los datos de la web _https://www.bioparcfuengirola.es/_ y generar un dataset para analizarlos.
 
 ## Miembos del equipo
 
