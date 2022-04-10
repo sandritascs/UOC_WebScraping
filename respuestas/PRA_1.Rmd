@@ -27,7 +27,7 @@ En el dataset se encontrará información de los animales que se encuentran en e
 
 En el siguiente diagrama podemos observar los atributos de los animales que será la que se va a analizar en esta práctica. 
 
-![*Figura 2: Diagrama dataset*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image2_diagrama.png)
+![*Figura 2: Diagrama dataset*](C:/Users/Marian/Desktop/Máster/Fundamentos/image/image_diag.png)
 
 
 ## **Contenido**
@@ -93,7 +93,7 @@ En cuanto a los pasos llevados a cabo para la elección de este dataset se ha re
 
 El objetivo principal de este estudio es analizar los diferentes animales existentes en el Bioparc de Fuengirola. Para ello se ha estructurado en los siguientes puntos donde se centrará especialmente en un análisis cualitativo de las variables:
 
-- Número de animales especies por familia, orden clase, grupo junto con porcentaje que representa respecto al total.
+- Número de animales por especie, familia, orden clase, grupo junto con porcentaje que representa respecto al total.
       
 - Intervalo de gestación, vida y crías por especie.
 
